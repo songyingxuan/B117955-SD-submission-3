@@ -37,3 +37,10 @@ In Linux system, there is no default compiler environment set and users have to 
      3. Run: Execute the command in the shell terminal Java Test
 
              When the words “A new jdk test !” appear under the shell, jdk runs normally.
+      
+# Compile code
+             
+      1. Type "javac  GameTest.java" to compile the code after installing compile environment in shell terminal
+
+# Execute code
+      1. Type "java GameTest"  in shell terminal after compile and there will be prompt to guide users 
